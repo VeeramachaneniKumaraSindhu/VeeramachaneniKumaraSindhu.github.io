@@ -46,10 +46,7 @@ Few of my observations on US education system are:
 
 
 
-Overall, I enjoyed working with my team and I would like to say that this is one of the best project I made it in my summer semester.
-
-
-Here is our Final Project Poster
+Overall, I enjoyed working with my team and I would like to say that this is one of the best project I made it in my summer semester and here is our Project "Poster".
                                                          
 ![Image](https://github.com/VeeramachaneniKumaraSindhu/VeeramachaneniKumaraSindhu.github.io/blob/master/images/Summer_Practicum.PNG?raw=true)
 
