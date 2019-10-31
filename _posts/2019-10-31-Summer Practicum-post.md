@@ -21,6 +21,7 @@ Few of my observations are:
 3. Competency state-based education initiatives are increasing in high percentage across the country
 
 
+
                                                           Our Final poster
                                                          
 ![Image](https://github.com/VeeramachaneniKumaraSindhu/VeeramachaneniKumaraSindhu.github.io/blob/master/images/Summer_Practicum.PNG?raw=true)
