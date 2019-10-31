@@ -28,7 +28,7 @@ In order to determine the best and worst states for public-school education, we 
 
 
 
-Few of my observations are:
+Few of my observations on US education system are:
 
 1.International Assessment(s) mirrors USA high School decline in math and science
 
@@ -36,6 +36,9 @@ Few of my observations are:
 
 3.Competency state-based education initiatives are increasing in high percentage across the country
 
+
+
+Overall, I enjoyed working with my team and I would like to say that this is one of the best project I made it in my summer semester. 
 
 
                                                          Our Final poster
