@@ -32,16 +32,22 @@ Few of my observations on US education system are:
 
 1.International Assessment(s) mirrors USA high School decline in math and science
 
-2.New Hampshire is ranked in top 5 states
+2.Competency state-based education initiatives are increasing in high percentage across the country
 
-3.Competency state-based education initiatives are increasing in high percentage across the country
+3.There are 51 million students attending public schools in the United States
+
+4.The average student to teacher ratio is 16 (the highest PISA country the ratio is 16, the lowest 13)
+
+5.The per student expense is $13k, which equates to over $650 billion! 
+
+6.Over 20 million students attended college/university in 2018, with 57% of them are female
 
 
 
 Overall, I enjoyed working with my team and I would like to say that this is one of the best project I made it in my summer semester. 
 
 
-                                                         Our Final poster
+                                                         Our Final Poster
                                                          
 ![Image](https://github.com/VeeramachaneniKumaraSindhu/VeeramachaneniKumaraSindhu.github.io/blob/master/images/Summer_Practicum.PNG?raw=true)
 
