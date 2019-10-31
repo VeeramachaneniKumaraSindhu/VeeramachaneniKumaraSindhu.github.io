@@ -23,6 +23,7 @@ In order to determine the best and worst states for public-school education, we 
 
 
 Few of my observations are:
+
 1.International Assessment(s) mirrors USA high School decline in math and science
 2.New Hampshire is ranked in top 5 states
 3.Competency state-based education initiatives are increasing in high percentage across the country
