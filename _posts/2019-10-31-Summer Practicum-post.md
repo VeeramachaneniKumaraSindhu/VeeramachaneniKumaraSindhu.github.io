@@ -19,7 +19,8 @@ US Ranking (state wise)
 In order to determine the best and worst states for public-school education, we considered few factors like Drop-out Rate, Quality, Safety, Test Scores, Pupil-Teacher Ratio, Graduation Rates, Assessment criteria. For instance we took Quality & Safety as key dimesions for ranking purpose and below is the visuals of it.
 
 
-![Image](
+![Image](https://github.com/VeeramachaneniKumaraSindhu/VeeramachaneniKumaraSindhu.github.io/blob/master/images/FactorWise.PNG?raw=true)
+
 
                                                           Our Final poster
                                                          
