@@ -5,4 +5,4 @@ date: 2019-10-31
 ---
 
 
-![Image](
+![Image](https://github.com/VeeramachaneniKumaraSindhu/VeeramachaneniKumaraSindhu.github.io/blob/master/images/Summer_Practicum.PNG?raw=true)
