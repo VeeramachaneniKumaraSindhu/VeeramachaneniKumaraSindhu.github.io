@@ -18,11 +18,6 @@ US Ranking (state wise)
 
 
 
-Few of my observations are: 
-1. International Assessment(s) mirrors USA high school decline in Math and Science 
-2. New Hampshire is standing in top 5 states 
-3. Competency state-based education initiatives are increasing in high percentage across the country
-
 
                                                           Our Final poster
                                                          
